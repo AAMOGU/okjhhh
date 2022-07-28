@@ -1,0 +1,39 @@
+.zogolowok {
+  text-align: center;
+  color: white;
+  padding: 20px;
+  font-family: "Mochiy Pop One", sans-serif;
+}
+.fon {
+  background-color: #2e3e4e;
+  height: 1000px;
+  padding: 0px;
+  display: block;
+}
+.box {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  background-color: #38495b;
+  text-align: center;
+  padding: 0px;
+  border-radius: 1px;
+}
+.knopca {
+  text-decoration: none;
+  color: white;
+  text-align: center;
+  justify-content: first baseline;
+  transition: 1s;
+  width: 100%;
+  height: 25%;
+  padding: 15px;
+  font-family: "Square Peg", cursive;
+  font-family: "Mochiy Pop One", sans-serif;
+}
+.knopca:hover {
+  background-color: #41bd99;
+}
+* {
+  padding: 0px;
+}
